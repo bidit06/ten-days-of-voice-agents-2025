@@ -1,7 +1,7 @@
 {
-    "milk": "oat",
-    "drinkType": "latte",
-    "size": "medium",
+    "milk": "Almond",
+    "extras": "Hazelnut syrup",
+    "drinkType": "Latte",
     "name": "Bidit",
-    "extras": "whipped cream"
+    "size": "Medium"
 }
